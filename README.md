@@ -5,7 +5,9 @@
 
 - 👀 I’m interested in Open Source Softwares, Linux, Single Board Computers
 - 🌱 I’m currently learning Python and JavaScript
- 
+
+<br>
+
 
 ## 💻 languages and tools i've worked with
 
@@ -24,7 +26,6 @@
 
 ## 📫 how to reach me 
 
-<h3 align="left">my social media</h3>
 <p align="left">
 <a href="https://twitter.com/druidscode" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="druidscode" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/abhishkk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="druidscode" height="30" width="30" /></a>
