@@ -1,5 +1,5 @@
-<h1 align="center"> 👋 Hi there! </h1>
-<h3 align="center"> I'm a self taught developer </h3>
+<h1 align="center"> 👋 hi there! </h1>
+<h3 align="center"> i'm a self taught developer </h3>
 
 <br>
 
