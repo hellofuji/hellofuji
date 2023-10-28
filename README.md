@@ -5,13 +5,19 @@
 
 ## 💁🏽 about me
 
-- 👀 I’m interested in Open Source Softwares, Linux, Single Board Computers
-- 🌱 I’m currently learning Python and JavaScript
+  
+  - 🌱 I'm currently learning Python and JavaScript
+  - 📖 I'm a casual reader and enjoys learning about human psychology
+  - 💪 I like morning cardio
+  - 🖥️ I'm obsessed with single board computers and microcontrollers
+  - 📝 I write technical how-to articles - here's my blog
+  - 🐧 I’m interested in Open Source Softwares & Linux
+
 
 <br>
 
 
-## 💻 languages and tools i've worked with
+## ⚙️ languages and tools i've worked with
 
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -26,7 +32,7 @@
 
 <br>
 
-## 📫 how to reach me 
+## ☎️ connect with me
 
 <p align="left">
 <a href="https://twitter.com/druidscode" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="druidscode" height="30" width="30" /></a>
